@@ -1,0 +1,58 @@
+:root {
+  /* fonts */
+  --font-pontano-sans: "Pontano Sans";
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-inherit: inherit;
+  --font-manrope: Manrope;
+  --font-hurricane: Hurricane;
+  --font-ibm-plex-sans-thai-looped: "IBM Plex Sans Thai Looped";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-9xs: 13px;
+  --font-size-8xs: 14px;
+  --font-size-7xs: 15px;
+  --font-size-6xs: 16px;
+  --font-size-5xs: 18px;
+  --font-size-4xs: 19px;
+  --font-size-3xs: 21px;
+  --font-size-2xs: 22px;
+  --font-size-xs: 23px;
+  --font-size-sm: 24px;
+  --font-size-base: 25px;
+  --font-size-lg: 26px;
+  --font-size-xl: 35px;
+  --font-size-2xl: 37px;
+  --font-size-3xl: 51px;
+  --font-size-4xl: 52px;
+
+  /* Colors */
+  --color-gray-100: #7c7c7c;
+  --grayscale-100: #1a1a1a;
+  --color-gray-300: #050317;
+  --grayscale-10: #fff;
+  --color-tomato: #ff3b3b;
+  --color-lavender: rgba(237, 232, 254, 0.2);
+  --purple-100: #382e53;
+  --a2a2a2: #a1a1a1;
+  --grayscale-60: #959595;
+  --color-dimgray: #737373;
+  --color-darkslategray-100: #445464;
+  --grayscale-90: #464646;
+  --color-darkslategray-300: #272c33;
+  --color-whitesmoke: #eee;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-md: 31px;
+
+  /* border radiuses */
+  --br-2xs: 3px;
+  --br-xs: 5px;
+  --br-sm: 6px;
+  --br-md: 11px;
+  --br-lg: 12px;
+  --br-xl: 20px;
+  --br-2xl: 33px;
+}
